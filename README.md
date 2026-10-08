@@ -23,7 +23,7 @@
 
 - 4 类数据源、6 条 Power Query M 查询。
 - 自动清洗、合并、指标计算、数据透视和异常识别。
-- [可刷新 Excel 工作簿](docs/assets/自动化经营报表-含PowerQuery.xlsx)
+- [可刷新 Excel 工作簿](docs/assets/excel-powerquery-report.xlsx)
 
 ## 通用数据质量监控
 
